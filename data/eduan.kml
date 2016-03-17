@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>eduan.kml</name>
+	<Style id="style0">
+		<LineStyle>
+			<color>fe6e6e6e</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>fee3fad4</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<description><![CDATA[SP_CODE = 9.74044e+008<br>SP_NAME = Eduanpark<br>MP_CODE = 974044<br>MP_NAME = Polokwane<br>MN_MDB_C = LIM354<br>MN_CODE = 974<br>MN_NAME = Polokwane<br>DC_MDB_C = DC35<br>DC_MN_C = 935<br>DC_NAME = Capricorn<br>PR_MDB_C = LIM<br>PR_CODE = 9<br>PR_NAME = Limpopo<br>ALBERS_ARE = 0.823884<br>Shape_Leng = 0.0379986<br>Shape_Area = 7.304e-005<br>]]></description>
+		<styleUrl>#style0</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						29.464374,-23.887462,0 29.462094,-23.889325,0 29.461555,-23.888682,0 29.46097,-23.887991,0 29.460373,-23.887284,0 29.459662,-23.886429,0 29.459445,-23.886186,0 29.459997,-23.88583,0 29.460788,-23.885256,0 29.461699,-23.884613,0 29.461867,-23.884496,0 29.462003,-23.882626,0 29.462144,-23.882497,0 29.462207,-23.881675,0 29.462276,-23.880801,0 29.462314,-23.880326,0 29.462209,-23.880185,0 29.462287,-23.879139,0 29.462303,-23.878896,0 29.463055,-23.878676,0 29.464255,-23.878296,0 29.464946,-23.877968,0 29.466273,-23.87757,0 29.467516,-23.87719,0 29.468441,-23.876918,0 29.469391,-23.876625,0 29.470227,-23.876338,0 29.470227,-23.876339,0 29.470337,-23.876753,0 29.470525,-23.877673,0 29.470515,-23.877839,0 29.470518,-23.878,0 29.470754,-23.878856,0 29.470976,-23.879694,0 29.471146,-23.8803,0 29.471146,-23.880301,0 29.470851,-23.880642,0 29.46939800000001,-23.882214,0 29.469338,-23.88228,0 29.469021,-23.882623,0 29.467775,-23.883975,0 29.466199,-23.885689,0 29.465676,-23.886257,0 29.465206,-23.886766,0 29.464374,-23.887462,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

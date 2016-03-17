@@ -1,0 +1,27 @@
+{
+  "name": "census2geojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "census2geojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdbondi/census2geojson.git"
+  },
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/sdbondi/census2geojson/issues"
+  },
+  "homepage": "https://github.com/sdbondi/census2geojson#readme",
+  "dependencies": {
+    "geojson-merge": "^0.1.0",
+    "togeojson": "^0.13.0"
+  },
+  "devDependencies": {
+    "hactar-auto-install": "0.0.51",
+    "hactar-babel": "0.0.2"
+  }
+}

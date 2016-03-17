@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pen.kml</name>
+	<Style id="style0">
+		<LineStyle>
+			<color>fe6e6e6e</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>fee3fad4</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<description><![CDATA[SP_CODE = 9.74044e+008<br>SP_NAME = Penina Park<br>MP_CODE = 974044<br>MP_NAME = Polokwane<br>MN_MDB_C = LIM354<br>MN_CODE = 974<br>MN_NAME = Polokwane<br>DC_MDB_C = DC35<br>DC_MN_C = 935<br>DC_NAME = Capricorn<br>PR_MDB_C = LIM<br>PR_CODE = 9<br>PR_NAME = Limpopo<br>ALBERS_ARE = 0.985622<br>Shape_Leng = 0.0453115<br>Shape_Area = 8.74129e-005<br>]]></description>
+		<styleUrl>#style0</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						29.452463,-23.925206,0 29.45271,-23.925722,0 29.453004,-23.925674,0 29.454348,-23.925678,0 29.454472,-23.925763,0 29.454592,-23.926306,0 29.454592,-23.927158,0 29.454355,-23.927448,0 29.45362,-23.927451,0 29.453655,-23.927527,0 29.454184,-23.928725,0 29.454755,-23.929981,0 29.455051,-23.930637,0 29.45557,-23.931834,0 29.455867,-23.932478,0 29.455972,-23.932885,0 29.456028,-23.933011,0 29.456607,-23.934314,0 29.45729,-23.935837,0 29.45778,-23.936929,0 29.458374,-23.938196,0 29.457387,-23.93859700000001,0 29.457047,-23.938741,0 29.456705,-23.938879,0 29.45636,-23.939011,0 29.456013,-23.939137,0 29.455663,-23.939257,0 29.454574,-23.939637,0 29.454105,-23.939801,0 29.45278,-23.940274,0 29.449265,-23.941504,0 29.449236,-23.940502,0 29.449164,-23.938809,0 29.449147,-23.93741,0 29.449229,-23.936069,0 29.449273,-23.93565299999999,0 29.449358,-23.934858,0 29.449532,-23.933879,0 29.449766,-23.932846,0 29.449804,-23.93267700000001,0 29.45006100000001,-23.931648,0 29.450636,-23.929431,0 29.451022,-23.927994,0 29.451031,-23.927956,0 29.45130199999999,-23.926896,0 29.451787,-23.925068,0 29.452044,-23.924074,0 29.452463,-23.925206,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
